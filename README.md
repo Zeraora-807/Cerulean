@@ -24,10 +24,5 @@
 **浸ってたんだよ**<br>
 一直沉浸其中<br>
 <br>
-六次尝试：<br>
-T - 5s<br>
-T - RTT(avg) / 2<br>
-T - RTT(predicted) / 2<br>
-T - 500ms<br>
-T - 100ms<br>
-T<br>
+
+`2026.8.30 16:11` 目前有重大BUG，等待修复
